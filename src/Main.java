@@ -2,6 +2,6 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println("woenshi");
+        System.out.println("woenshi,里我都收了");
     }
 }
